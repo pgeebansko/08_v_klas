@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cafb7b4f-01cf-4607-8718-1bf011cf4b4b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/set.html" beforeDir="false" afterPath="$PROJECT_DIR$/set.html" afterDir="false" />
-    </list>
+    <list default="true" id="cafb7b4f-01cf-4607-8718-1bf011cf4b4b" name="Changes" comment="test_git3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +66,35 @@
       <option name="presentableId" value="Default" />
       <updated>1679475790821</updated>
     </task>
+    <task id="LOCAL-00001" summary="test_git1">
+      <created>1679477073689</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679477073689</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test_git2">
+      <created>1679477218039</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679477218039</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test_git2">
+      <created>1679477436982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679477436982</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test_git3">
+      <created>1679477657958</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679477657958</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,5 +107,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test_git1" />
+    <MESSAGE value="test_git2" />
+    <MESSAGE value="test_git3" />
+    <option name="LAST_COMMIT_MESSAGE" value="test_git3" />
   </component>
 </project>
